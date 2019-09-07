@@ -9,7 +9,7 @@
 
 ![1567868370105](readme.assets/1567868370105.png)
 
-**有需求的用户可以下载linxu版本的，目前并没有Mac版本的。**（可以尝试虚拟机或者wine解决）
+**有需求的用户可以下载linux版本的，目前并没有Mac版本的。**（可以尝试虚拟机或者wine解决）
 
 ## 第三步：
 
@@ -19,7 +19,7 @@
 
 如果没有账号就先注册一个。
 
-注册链接：https://www.xilinx.com/registration/create-account.html
+注册链接：[https://www.xilinx.com/registration/create-account.html](https://www.xilinx.com/registration/create-account.html)
 
 按照真实信息进行填写就可以了。**（注意用英文填写。）**
 
@@ -43,7 +43,7 @@
 
 ![1567869203526](readme.assets/1567869203526.png)
 
-直接就**Next**（如果要加快安装速度，推荐先展示关闭杀毒软件什么，我电脑上没有杀毒软件，所以就不管了）、
+直接就**Next**（如果要加快安装速度，推荐先暂时关闭杀毒软件什么，我电脑上没有杀毒软件，所以就不管了）、
 
 后面会叫你登录，直接用刚才的注册的帐号登录就可以。
 
