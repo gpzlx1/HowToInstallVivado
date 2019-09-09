@@ -1,6 +1,17 @@
 # Re:从零开始vivado安装
 
+# Before
+
+vivado支持的系统一览
+
+![1567997740171](readme.assets/1567997740171.png)
+
+[官方文档](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_3/ug973-vivado-release-notes-install-license.pdf)
+
+# 开始安装
+
 ## 第一步：
+
 打开[xilinx官网](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/2019-1.html)
 
 ## 第二步：
@@ -10,6 +21,8 @@
 ![1567868370105](readme.assets/1567868370105.png)
 
 **有需求的用户可以下载linux版本的，目前并没有Mac版本的。**（可以尝试虚拟机或者wine解决）
+
+Linux安装参考[这里](https://github.com/gpzlx1/HowToInstallVivado/blob/master/How to Install vivado for linux.md)，不过还是推荐先看完这篇文章，了解大概流程。
 
 ## 第三步：
 
@@ -90,3 +103,13 @@ Next之后就是下载包的选择了，保持默认不动，参考下面的选�
 点击这个图标，打开软件是这样子的。
 
 ![1567988948060](readme.assets/1567988948060.png)
+
+
+
+# 写在最后
+
+注意：verilog是硬件开发语言和C有很大的不同，当讲到verilog语法和上前几次实验时，请认真听讲，可以避免好多坑。祝各位以后实验开心。：-)
+
+张老师班vivado参考资料：https://www.bb.ustc.edu.cn/webapps/blackboard/content/listContent.jsp?course_id=_257_1&content_id=_11422_1&mode=reset
+
+另外推荐大家阅读[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)

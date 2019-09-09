@@ -1,5 +1,7 @@
 #	How to Install vivado for linux
 
+##	install vivado
+
  请先阅读[HowToInstallVivado](readme.md)
 
 总体步骤比较类似，下好webpack(linux)后，
@@ -19,4 +21,6 @@ sudo sh Xilinx_Vivado_SDK_Web_2019.1_0524_1430_Lin64.bin
 这里注意到，相比win，这里驱动程序不能安装，所以等下还要装驱动。
 
 ![1567990461454](How to Install vivado for linux.assets/1567990461454.png)
+
+##	install driver
 
