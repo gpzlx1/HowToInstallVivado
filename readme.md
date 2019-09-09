@@ -22,7 +22,7 @@ vivado支持的系统一览
 
 **有需求的用户可以下载linux版本的，目前并没有Mac版本的。**（可以尝试虚拟机或者wine解决）
 
-Linux安装参考[这里](https://github.com/gpzlx1/HowToInstallVivado/blob/master/How to Install vivado for linux.md)，不过还是推荐先看完这篇文章，了解大概流程。
+Linux安装参考[这里](https://github.com/gpzlx1/HowToInstallVivado/blob/master/How_to_Install_vivado_for_linux.md)，不过还是推荐先看完这篇文章，了解大概流程。
 
 ## 第三步：
 
